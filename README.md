@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bonjour, je suis Adrian 👋
 
-<!--
-**CAZORBONNETAdrian/CAZORBONNETAdrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 
-Here are some ideas to get you started:
+## Contactez moi
+<p>
+<a href="mailto:adrian.cazor--bonnet@iut-rodez.fr" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo Gmail"/></a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## IDE utilisés
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,arduino)](https://skillicons.dev)
+
+## Langages
+
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,bootstrap,js,php)](https://skillicons.dev)
+
+## Outils
+[![My Skills](https://skillicons.dev/icons?i=git,mysql,grafana,linux,windows,figma)](https://skillicons.dev)
